@@ -10,7 +10,7 @@ This contains sources which all have English translations.
 
 ### Base URL
 
-[`https://Seanghost117.github.io/paperback-extensions/master`](https://Seanghost117.github.io/paperback-extensions/master)
+[`https://Seanghost117.github.io/paperback-extensions/master`](https://Seanghost117.github.io/paperback-extensions/master/)
 
 ### Sources
 
